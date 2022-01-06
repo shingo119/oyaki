@@ -1,0 +1,15 @@
+//Pythonを実行
+$command="python3 xss_main.py";
+exec($command,$output,$status);
+
+echo json_decode($output);
+
+
+
+
+
+//Pythonを実行
+$command="python3 xss_main.py '$url'";
+exec($command,$output,$status);
+
+echo json_decode($output);

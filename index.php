@@ -118,7 +118,7 @@
   </div>
   <!-- メインコンテンツ -->
   <div class="glb_content">
-    <model-viewer id="static-model" src="glb/Astronaut.glb" shadow-intensity="1" camera-controls alt="A 3D model of an astronaut">
+    <model-viewer id="static-model" src="glb/untitled.glb" shadow-intensity="1" camera-controls alt="A 3D model of an astronaut">
       <!-- <div class="controls">
         <button onclick="exportGLB()">Export GLB</button>
       </div> -->
