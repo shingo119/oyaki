@@ -127,57 +127,9 @@
 
 
   <!-- フッター -->
-  <div class="hooter">
-    <div class="brand_name">るり色おやき</div>
-    <div class="choose_language">言語選択</div>
-    <div class="hooter_menu">
-      <div class="hooter_menu_content">
-        <h3>サービス</h3>
-        <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-      </div>
-      <div class="hooter_menu_content">
-        <h3>会社概要</h3>
-        <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-      </div>
-      <div class="hooter_menu_content">
-        <h3>利用規約</h3>
-        <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-      </div>
-      <div class="hooter_menu_content sns_links">
-        <h3>フォローする</h3>
-        <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-      </div>
-      <div class="conponent_content">
-        <div class="copyright_footer">
-          <div class="copyright_container">
-            <p class="copyright_text">るり色おやき,Inc. 2021</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+ <div class="unity_gate_btn">
+  <button class="unity_btn">SHOPに来店する</button> 
+ </div>
   <!-- フッター -->
 <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
